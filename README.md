@@ -7,27 +7,38 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samir+Sadek!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from BD, eager to evolve as a proficient MERN stack developer</h3>
+<h3 align="center">A passionate frontend developer from 🇧🇩</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 Eager to dive into the world of **MERN stack development** and unleash its creative potential.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Redux, Next.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Javascript, React, Firebase, Express, Mongodb**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌍 Dhaka, Bangladesh.
 
  </div>
 
+<div align="center"> 
+  <a href="mailto:samirsadek1009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/samir-sadek-9487a6132" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/SamirSadek" target="_blank">
+     <img src="https://img.shields.io/badge/github-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+    
+
+ <hr/>
 
 
-- 📫 How to reach me **samirsadek1009@gmail.com**
-
-<h1 align="center">🌐 Socials:</h1>
 <p align="center">
 <a href="https://linkedin.com/in/samir-sadek-9487a6132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-sadek-9487a6132" height="30" width="40" /></a>
 </p>
