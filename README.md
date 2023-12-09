@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Samir Sadek</h1>
-<h3 align="center">A passionate frontend developer, eager to evolve as a proficient MERN stack developer</h3>
+
 
 <img align='center' alt='coding' src='https://media.licdn.com/dms/image/D5616AQHhE-CHFQSi0w/profile-displaybackgroundimage-shrink_350_1400/0/1702111459165?e=1707350400&v=beta&t=C1tCtPry0tRGQBwMeXrb8666YV7pgbZIo_TpJE8QYHY'>
 
+<h1 align="left">Hi 👋, I'm Samir Sadek</h1>
+<h3 align="left">A passionate frontend developer, eager to evolve as a proficient MERN stack developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirsadek&label=Profile%20views&color=0e75b6&style=flat" alt="samirsadek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirsadek" alt="samirsadek" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirsadek" alt="samirsadek" /></a> </p>
 
 - 📫 How to reach me **samirsadek1009@gmail.com**
 
