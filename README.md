@@ -81,7 +81,7 @@
 </div>
 <br/>
 
-## JOBCONNECT (Online Marketplace Website)
+## [JOBCONNECT (Online Marketplace Website)](https://online-marketplace-481d3.web.app/)
 * **Navigation and Layout:** Consistent Navbar and Footer on all pages, excluding the 404 page.Meaningful footer with website logo, copyright notice, contact information, social media links, and address.
 
 * **Registration and Login:** Login Page with email and password login options.Google Sign-in functionality for user convenience. Link to the Registration Page for new users.Registration Page includes fields for name, email, password, and photo URL.
@@ -106,6 +106,29 @@
 </div>
 <br/>
 
+## GADGETLUXE! (Shopping website for technology and electronics products)
+
+* **Website Categories:** The website exclusively focuses on the "Technology and Electronics" category.It provides access to products from well-known brands in this category.
+
+* **Navigation:** Users can log in using email and password, or an additional social media login (Google).
+
+* **Home Page:** Display of brand names with brand images on the home page.Brand names and images are loaded from a database can click on a brand to view products from that brand.Some brands may not have available products; in such cases, a relevant message is displayed on the brand's page.
+
+* **Add Product Page:** A private/protected route where users can add a new product to the database.The form includes fields for image, name, brand name, type, price, short description, rating, and an "Add" button.
+
+* **Product Details Page:** Users can click on a product to view detailed information.An "Add to Cart" button allows users to add the product to their shopping cart.Private/protected route with automatic redirection to the login page for unauthenticated users.
+
+
+* **Shopping Cart Page:** Users can view all the products they have added to their shopping cart.Products can be deleted from the cart.
+
+* **Update Product Page:** A private/protected route for updating product information.The form includes fields for image, name, brand name, type, price, and rating.A "Submit" button allows users to save their changes.
+
+* **Authentication:** Users can register and log in using email and password.Password requirements are enforced, and error messages are displayed for validation.Users can toggle between the login and registration views.An additional login option is available for Google.
+* **Used Technology:**  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,jwt" /><br>
+</div>
+<br/>
 
   
 
