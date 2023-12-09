@@ -64,7 +64,7 @@
 <br/>
 
 
-## SURVO (Online Survey Website)
+## SURVO (Online Survey Website) [See Live Website](https://survo-cd76d.web.app/)
 
 * **Role-Based Access Control:** User roles (user, surveyor, admin, pro-user) with distinct permissions.Admin control over user roles, including elevating roles to admin/surveyor.
 
@@ -81,7 +81,7 @@
 </div>
 <br/>
 
-## [JOBCONNECT (Online Marketplace Website)](https://online-marketplace-481d3.web.app/)
+## JOBCONNECT (Online Marketplace Website)  [See Live Website](https://online-marketplace-481d3.web.app/)
 * **Navigation and Layout:** Consistent Navbar and Footer on all pages, excluding the 404 page.Meaningful footer with website logo, copyright notice, contact information, social media links, and address.
 
 * **Registration and Login:** Login Page with email and password login options.Google Sign-in functionality for user convenience. Link to the Registration Page for new users.Registration Page includes fields for name, email, password, and photo URL.
@@ -106,7 +106,7 @@
 </div>
 <br/>
 
-## GADGETLUXE! (Shopping website for technology and electronics products)
+## GADGETLUXE! (Shopping website for tech products) [See Live Website](https://gadget-luxe-auth.web.app/)
 
 * **Website Categories:** The website exclusively focuses on the "Technology and Electronics" category.It provides access to products from well-known brands in this category.
 
