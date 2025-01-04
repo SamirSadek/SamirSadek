@@ -14,7 +14,7 @@
  
  🔭 Eager to dive into the world of **MERN stack development** and unleash its creative potential.
  
- 🌱 I’m currently learning **Redux, Next.js**
+ 🌱 I’m currently learning **Redux, Next.js, React Native**
 
 💬 Ask me about **Javascript, React, Firebase, Express, Mongodb**
 
