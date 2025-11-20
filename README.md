@@ -12,15 +12,15 @@
 
 <div align="center">
  
- 🔭 Eager to dive into the world of **MERN stack development** and unleash its creative potential.
- 
- 🌱 I’m currently learning **Redux, Next.js, React Native**
+ 🔧 Passionate about automating, optimizing, and scaling systems through modern **DevOps practices**.
 
-💬 Ask me about **Javascript, React, Firebase, Express, Mongodb**
+ 🌱 Currently learning **Terraform, AWS, Docker, Kubernetes, CI/CD Pipelines**
 
-🌍 Dhaka, Bangladesh.
+ 💬 Ask me about **Linux, Cloud Computing, AWS Services, Docker, CI/CD, Monitoring & Logging**
 
- </div>
+ 🌍 Dhaka, Bangladesh.
+
+</div>
 
 <div align="center"> 
   <a href="mailto:samirsadek1009@gmail.com">
