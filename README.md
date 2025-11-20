@@ -13,9 +13,9 @@
 
  ☁️ Skilled in **AWS Cloud, Infrastructure as Code, Containerization, Orchestration & CI/CD Automation**.
 
- 🌱 Currently expanding expertise in **Terraform Modules, Kubernetes Production Workloads, GitHub Actions, Ansible & Monitoring Tools**.
+ 🌱 Currently expanding expertise in **Terraform Modules, Kubernetes Production Workloads, Jenkins**.
 
- 💬 Ask me about **Linux, AWS, Docker, Kubernetes, Terraform, CI/CD Pipelines, DevOps Best Practices**.
+ 💬 Ask me about **Linux, AWS, Docker, Kubernetes, Terraform, Ansible, CI/CD Pipelines, DevOps Best Practices**.
 
  🌍 Dhaka, Bangladesh.
 
